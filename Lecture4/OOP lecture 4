@@ -1,0 +1,22 @@
+1. Type Data Types:
+- class
+- interface
+- enum
+- annotation
+
+
+1. ООП
+
+2. UML
+
+Student
+	- name
+	- age
+	- class
+Teacher
+	- name
+	- age
+	- class
+Class
+	- name
+	- hours
